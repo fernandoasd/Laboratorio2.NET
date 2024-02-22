@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorBinario103", "ConversorBinario103\ConversorBinario103.csproj", "{D67D13BC-AF06-4B65-AC3F-01F0F7CCC286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{922086FB-0DC8-4C30-A378-971750BA832D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67D13BC-AF06-4B65-AC3F-01F0F7CCC286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67D13BC-AF06-4B65-AC3F-01F0F7CCC286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67D13BC-AF06-4B65-AC3F-01F0F7CCC286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67D13BC-AF06-4B65-AC3F-01F0F7CCC286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922086FB-0DC8-4C30-A378-971750BA832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922086FB-0DC8-4C30-A378-971750BA832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922086FB-0DC8-4C30-A378-971750BA832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922086FB-0DC8-4C30-A378-971750BA832D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A62F82D7-F354-45C7-83B7-A692B211041A}
+	EndGlobalSection
+EndGlobal

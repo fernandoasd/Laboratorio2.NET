@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumador", "Sumador\Sumador.csproj", "{99F95E16-E3BE-4717-B739-CCA1E2D0FFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{00B64234-373E-4781-A948-3E118AE8DFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F95E16-E3BE-4717-B739-CCA1E2D0FFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F95E16-E3BE-4717-B739-CCA1E2D0FFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F95E16-E3BE-4717-B739-CCA1E2D0FFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F95E16-E3BE-4717-B739-CCA1E2D0FFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B64234-373E-4781-A948-3E118AE8DFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B64234-373E-4781-A948-3E118AE8DFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B64234-373E-4781-A948-3E118AE8DFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B64234-373E-4781-A948-3E118AE8DFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F4E3903-C25F-4126-9E2F-C55FEC656E16}
+	EndGlobalSection
+EndGlobal

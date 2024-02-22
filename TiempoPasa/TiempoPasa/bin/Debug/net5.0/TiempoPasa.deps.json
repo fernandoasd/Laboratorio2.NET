@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TiempoPasa/1.0.0": {
+        "dependencies": {
+          "CalculadoraDias": "1.0.0"
+        },
+        "runtime": {
+          "TiempoPasa.dll": {}
+        }
+      },
+      "CalculadoraDias/1.0.0": {
+        "runtime": {
+          "CalculadoraDias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiempoPasa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculadoraDias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\bin\Debug\net5.0\Bibloteca.deps.json
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\bin\Debug\net5.0\Bibloteca.dll
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\bin\Debug\net5.0\Bibloteca.pdb
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\Bibloteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\Bibloteca.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\Bibloteca.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\Bibloteca.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\Bibloteca.dll
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\refint\Bibloteca.dll
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\Bibloteca.pdb
+C:\Users\Fernando\source\repos\Clase_02\Bibloteca\obj\Debug\net5.0\ref\Bibloteca.dll

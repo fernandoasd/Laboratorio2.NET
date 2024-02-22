@@ -1,0 +1,11 @@
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\bin\Debug\net5.0\biblioteca1.deps.json
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\bin\Debug\net5.0\biblioteca1.dll
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\bin\Debug\net5.0\biblioteca1.pdb
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\biblioteca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\biblioteca1.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\biblioteca1.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\biblioteca1.dll
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\refint\biblioteca1.dll
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\biblioteca1.pdb
+C:\Users\Fernando\source\repos\Calculadora\biblioteca1\obj\Debug\net5.0\ref\biblioteca1.dll

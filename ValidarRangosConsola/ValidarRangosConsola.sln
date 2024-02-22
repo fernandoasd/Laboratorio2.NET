@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidarRangosConsola", "ValidarRangosConsola\ValidarRangosConsola.csproj", "{F92B2B95-A1DB-4B9B-8D03-28C03DF442BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{E85C4CC4-07D0-48AF-91E4-FA341A914FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92B2B95-A1DB-4B9B-8D03-28C03DF442BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92B2B95-A1DB-4B9B-8D03-28C03DF442BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92B2B95-A1DB-4B9B-8D03-28C03DF442BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92B2B95-A1DB-4B9B-8D03-28C03DF442BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85C4CC4-07D0-48AF-91E4-FA341A914FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85C4CC4-07D0-48AF-91E4-FA341A914FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85C4CC4-07D0-48AF-91E4-FA341A914FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85C4CC4-07D0-48AF-91E4-FA341A914FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0E078D-7F08-47E4-BEED-0683596C6709}
+	EndGlobalSection
+EndGlobal

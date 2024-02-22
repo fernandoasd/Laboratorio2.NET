@@ -1,0 +1,11 @@
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\bin\Debug\net5.0\CalculadoraDias.deps.json
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\bin\Debug\net5.0\CalculadoraDias.dll
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\bin\Debug\net5.0\CalculadoraDias.pdb
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\CalculadoraDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\CalculadoraDias.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\CalculadoraDias.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\CalculadoraDias.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\CalculadoraDias.dll
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\refint\CalculadoraDias.dll
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\CalculadoraDias.pdb
+C:\Users\Fernando\source\repos\TiempoPasa\CalculadoraDias\obj\Debug\net5.0\ref\CalculadoraDias.dll

@@ -1,0 +1,15 @@
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\net5.0\Hola_Mundo.exe
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\net5.0\Hola_Mundo.deps.json
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\net5.0\Hola_Mundo.runtimeconfig.json
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\net5.0\Hola_Mundo.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\net5.0\Hola_Mundo.dll
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\bin\Debug\net5.0\Hola_Mundo.pdb
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\Hola_Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\Hola_Mundo.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\Hola_Mundo.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\Hola_Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\Hola_Mundo.dll
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\refint\Hola_Mundo.dll
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\Hola_Mundo.pdb
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\Hola_Mundo.genruntimeconfig.cache
+C:\Users\Fernando\source\repos\Hola_Mundo\Hola_Mundo\obj\Debug\net5.0\ref\Hola_Mundo.dll
