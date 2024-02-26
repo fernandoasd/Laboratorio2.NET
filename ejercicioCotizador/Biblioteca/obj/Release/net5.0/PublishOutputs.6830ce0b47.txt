@@ -1,0 +1,3 @@
+C:\Users\Fernando\Desktop\proyecto cotizador\Billetes.dll
+C:\Users\Fernando\Desktop\proyecto cotizador\Billetes.deps.json
+C:\Users\Fernando\Desktop\proyecto cotizador\Billetes.pdb

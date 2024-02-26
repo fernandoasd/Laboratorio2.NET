@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Description>Aplicativo para cotizar pesos, auros y dolres.</Description>
+    <PackageIcon>icono.png</PackageIcon>
+    <Title>Cotizador Desktop</Title>
+    <Company>Fernando Malinowski</Company>
+    <Product>Cotizador</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\icono.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\Billetes.csproj" />
+  </ItemGroup>
+
+</Project>

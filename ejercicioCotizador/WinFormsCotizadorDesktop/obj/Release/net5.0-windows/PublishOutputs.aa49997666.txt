@@ -1,0 +1,7 @@
+C:\Users\Fernando\source\repos\ejercicioCotizador\WinFormsCotizadorDesktop\bin\Release\net5.0-windows\publish\WinFormsCotizadorDesktop.exe
+C:\Users\Fernando\source\repos\ejercicioCotizador\WinFormsCotizadorDesktop\bin\Release\net5.0-windows\publish\WinFormsCotizadorDesktop.dll
+C:\Users\Fernando\source\repos\ejercicioCotizador\WinFormsCotizadorDesktop\bin\Release\net5.0-windows\publish\WinFormsCotizadorDesktop.deps.json
+C:\Users\Fernando\source\repos\ejercicioCotizador\WinFormsCotizadorDesktop\bin\Release\net5.0-windows\publish\WinFormsCotizadorDesktop.runtimeconfig.json
+C:\Users\Fernando\source\repos\ejercicioCotizador\WinFormsCotizadorDesktop\bin\Release\net5.0-windows\publish\WinFormsCotizadorDesktop.pdb
+C:\Users\Fernando\source\repos\ejercicioCotizador\WinFormsCotizadorDesktop\bin\Release\net5.0-windows\publish\Billetes.dll
+C:\Users\Fernando\source\repos\ejercicioCotizador\WinFormsCotizadorDesktop\bin\Release\net5.0-windows\publish\Billetes.pdb

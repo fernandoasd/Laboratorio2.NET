@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C02_Estantería")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d17e3624fc7e887f047d0a19bbdf2d6b1e6bcb0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("C02_Estantería")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C02_Estantería")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
